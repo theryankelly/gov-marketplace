@@ -42,8 +42,8 @@ We decided to take a turn at shedding some on the gov-marketplace here in Massac
 - List of permit vendors identified through surveying websites: https://airtable.com/shr6r4MHQL2po8wUX
 - List of IT Community Compact Grant recipients:https://airtable.com/shrqdEsQc9apcH3RS
 - List of request for H.4733 (eventually turned into 202 IT bond bill)https://airtable.com/shrLG0HEIp3eZyrsu
-- List where cataloging and categorizing town budget siteshttps://airtable.com/shrGrW8bTDj3djobY
-- List of software review siteshttps://airtable.com/shrokdQ9HKbYWewk1
-- List of government procurement vehicleshttps://airtable.com/shrGtmWBq93dfWcYR
-- List of vendors notified for government IT RFPshttps://airtable.com/shrtgPpwqcpg8punS
-- List of vendors from Somerville open data portalhttps://airtable.com/shrpPO2LS33G97vHl
+- List where cataloging and categorizing town budget sites https://airtable.com/shrGrW8bTDj3djobY
+- List of software review sites https://airtable.com/shrokdQ9HKbYWewk1
+- List of government procurement vehicles https://airtable.com/shrGtmWBq93dfWcYR
+- List of vendors notified for government IT RFPs https://airtable.com/shrtgPpwqcpg8punS
+- List of vendors from Somerville open data portal https://airtable.com/shrpPO2LS33G97vHl
